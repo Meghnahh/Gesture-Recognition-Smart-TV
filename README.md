@@ -2,7 +2,7 @@
 
 Gesture Recognition for Consumer electronics - Smart TV
 
-Problem Statement
+## Problem Statement
 A home electronics company which manufactures state of the art smart televisions want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
 
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
